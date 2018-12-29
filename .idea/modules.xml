@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creational.patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/creational.patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creational.patterns_main.iml" filepath="$PROJECT_DIR$/.idea/modules/creational.patterns_main.iml" group="creational.patterns" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creational.patterns_test.iml" filepath="$PROJECT_DIR$/.idea/modules/creational.patterns_test.iml" group="creational.patterns" />
       <module fileurl="file://$PROJECT_DIR$/oodesign.iml" filepath="$PROJECT_DIR$/oodesign.iml" />
     </modules>
   </component>
