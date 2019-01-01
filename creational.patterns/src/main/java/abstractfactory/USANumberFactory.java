@@ -1,6 +1,6 @@
 package abstractfactory;
 
-public class USANumberFactory extends AbstractPhoneNumberGenerator {
+class USANumberFactory extends AbstractPhoneNumberGenerator {
     final String USA_PREFIX = "+990";
     private static int counter = 0;
 

@@ -1,6 +1,6 @@
 package factorymethod;
 
-public class FactoryMethodMain {
+class FactoryMethodMain {
     public static void main(final String... args) {
         ChocolateProducer producer = new DefaultChocolateProducer();
 

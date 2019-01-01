@@ -3,7 +3,7 @@ package abstractfactory;
 import java.util.HashMap;
 import java.util.Map;
 
-public class FactoryCreator {
+class FactoryCreator {
     private static Map<Country, AbstractPhoneNumberGenerator> factories = new HashMap();
 
     static AbstractPhoneNumberGenerator getFactory(final Country country){

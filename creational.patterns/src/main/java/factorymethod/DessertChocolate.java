@@ -1,6 +1,6 @@
 package factorymethod;
 
-public class DessertChocolate extends AbstractChocolate {
+class DessertChocolate extends AbstractChocolate {
     public DessertChocolate() {
         super("Dessert");
     }

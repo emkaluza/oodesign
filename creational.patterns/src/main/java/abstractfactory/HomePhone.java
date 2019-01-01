@@ -1,6 +1,6 @@
 package abstractfactory;
 
-public abstract class HomePhone {
+abstract class HomePhone {
     private final String number;
 
     protected HomePhone(final String number){

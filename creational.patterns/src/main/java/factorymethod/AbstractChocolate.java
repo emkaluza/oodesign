@@ -1,6 +1,6 @@
 package factorymethod;
 
-public abstract class AbstractChocolate implements Chocolate{
+abstract class AbstractChocolate implements Chocolate{
     private final String taste;
 
     protected AbstractChocolate(final String taste) {

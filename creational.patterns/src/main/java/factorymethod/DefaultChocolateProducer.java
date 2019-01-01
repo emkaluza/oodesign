@@ -1,6 +1,6 @@
 package factorymethod;
 
-public class DefaultChocolateProducer implements ChocolateProducer {
+class DefaultChocolateProducer implements ChocolateProducer {
     @Override
     public Chocolate createChococalate(String choco) {
         if (choco.equalsIgnoreCase("dessert")) {

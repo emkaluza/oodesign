@@ -1,6 +1,6 @@
 package abstractfactory;
 
-public class PolishNumberFactory extends AbstractPhoneNumberGenerator {
+class PolishNumberFactory extends AbstractPhoneNumberGenerator {
     final String POLAND_PREFIX = "+48";
     private static int counter = 0;
 

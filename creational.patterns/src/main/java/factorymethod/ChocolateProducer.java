@@ -1,5 +1,5 @@
 package factorymethod;
 
-public interface ChocolateProducer {
+interface ChocolateProducer {
     public Chocolate createChococalate(final String choco);
 }

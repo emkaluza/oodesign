@@ -1,6 +1,6 @@
 package factory;
 
-public class FactoryMain {
+class FactoryMain {
 
     static{
         ProductFactory.instance().registerProduct("P1", new ProductOne());
