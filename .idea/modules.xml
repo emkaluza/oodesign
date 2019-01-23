@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/creational.patterns_main.iml" filepath="$PROJECT_DIR$/.idea/modules/creational.patterns_main.iml" group="creational.patterns" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/creational.patterns_test.iml" filepath="$PROJECT_DIR$/.idea/modules/creational.patterns_test.iml" group="creational.patterns" />
       <module fileurl="file://$PROJECT_DIR$/oodesign.iml" filepath="$PROJECT_DIR$/oodesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/structural.patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/structural.patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/structural.patterns_main.iml" filepath="$PROJECT_DIR$/.idea/modules/structural.patterns_main.iml" group="structural.patterns" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/structural.patterns_test.iml" filepath="$PROJECT_DIR$/.idea/modules/structural.patterns_test.iml" group="structural.patterns" />
     </modules>
   </component>
 </project>

@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="creational.patterns_main" target="1.8" />
       <module name="creational.patterns_test" target="1.8" />
+      <module name="structural.patterns_main" target="1.8" />
+      <module name="structural.patterns_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
